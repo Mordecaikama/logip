@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/logip/static/css/main.cb6dab79.css",
+    "main.js": "/logip/static/js/main.c674e1e4.js",
+    "static/media/profile-3.jpg": "/logip/static/media/profile-3.d25e9a28e32aa5201afa.jpg",
+    "static/media/profile-1.jpg": "/logip/static/media/profile-1.f67c38ecae8eabd9769c.jpg",
+    "static/media/profile-2.jpg": "/logip/static/media/profile-2.4947bd877c41e2b9710b.jpg",
+    "index.html": "/logip/index.html",
+    "main.cb6dab79.css.map": "/logip/static/css/main.cb6dab79.css.map",
+    "main.c674e1e4.js.map": "/logip/static/js/main.c674e1e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb6dab79.css",
+    "static/js/main.c674e1e4.js"
+  ]
+}
